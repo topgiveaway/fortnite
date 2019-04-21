@@ -69,10 +69,11 @@ table {
 #countdown > div > span
 {
 	display: block;
+	color: #000000;
 }
 .input-group-addon {
     color: #000000;
-    background-color: transparent;
+    background-color: #000000;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
